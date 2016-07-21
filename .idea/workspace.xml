@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4cdc2dc7-b8d4-44ba-8b59-0a42d2f89a6d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.ICEauthority" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.WebStorm11/config/port.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.WebStorm11/system/port.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.Xauthority" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.bash_history" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/data_0" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/data_1" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/data_2" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/data_3" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000002" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000003" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000004" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000005" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000006" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000007" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000008" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000009" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00000a" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00000b" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00000c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00000d" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00000e" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000010" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000011" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000012" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000013" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000014" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000016" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000017" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000018" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000019" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00001b" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00001c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00001d" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00001e" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00001f" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000020" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000021" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000022" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000023" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000024" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000025" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000027" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000028" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000029" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00002a" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00002b" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00002c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00002d" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00002e" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00002f" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000030" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000031" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000032" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000034" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000035" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000036" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000037" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000038" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000039" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00003a" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00003b" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00003c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00003d" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00003e" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00003f" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000040" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000041" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000042" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000043" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000044" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000045" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000046" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000047" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000048" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000049" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00004a" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00004b" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00004c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00004d" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00004e" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_00004f" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000050" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000051" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000052" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000053" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000054" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000055" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000056" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/f_000057" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/index" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/gstreamer-1.0/registry.x86_64.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/cache2/entries/1F598FFB2F4380C0F286A8D06BC0883B4B02507A" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/cache2/entries/50C2EC1F5077953022F7B3751ADCCBF65FDF0BB0" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/cache2/entries/53DAE4B1D7BFF6744CCAF7207DE631267F9883DC" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/cache2/entries/62CA242A80D9452278322516F82D5624F4673DBF" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/cache2/entries/657EB31547EB211892D0A906ED429E2276505DC9" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/cache2/entries/6AC9BD0802E051FCD579CC69A96979DE29682F3D" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/cache2/entries/94FAE784A4154FDBFBEEDA2CB39048A1D091129D" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/cache2/entries/996FF69B28B46AA08240D5B033726E178EA73F53" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/cache2/entries/B733C240CE2B91C637B8FDAA243306DA736C4920" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/cache2/entries/BED55EF4C8D5312ABDC83CE08A52CF319B892886" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/cache2/entries/C7415759D86643581F0659B622ABB0C153910DF1" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/cache2/entries/D0425D7D46993FBDB6E84D35AAE2051A24529917" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/cache2/entries/D411F85EB43769D21827A6ADD09D6B14A6060FBF" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/cache2/entries/F18D85F52EBBBA2AB081EF739ED0D6E8A76D497C" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/cache2/entries/F988FF0C99E16EC65DEB6097BA4B5D98563B5F7D" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/cache2/entries/FA1AF12C70E35C63FB6404EB25956D76E7F9A6C9" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/cache2/index" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/goog-badbinurl-shavar.cache" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/goog-badbinurl-shavar.pset" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/goog-badbinurl-shavar.sbstore" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/goog-malware-shavar.cache" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/goog-malware-shavar.pset" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/goog-malware-shavar.sbstore" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/goog-phish-shavar.cache" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/goog-phish-shavar.pset" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/goog-phish-shavar.sbstore" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/goog-unwanted-shavar.cache" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/goog-unwanted-shavar.pset" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/goog-unwanted-shavar.sbstore" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/mozstd-track-digest256.cache" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/mozstd-track-digest256.pset" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/mozstd-track-digest256.sbstore" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/mozstd-trackwhite-digest256.cache" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/mozstd-trackwhite-digest256.pset" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/mozstd-trackwhite-digest256.sbstore" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/test-malware-simple.cache" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/test-malware-simple.pset" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/test-malware-simple.sbstore" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/test-phish-simple.cache" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/test-phish-simple.pset" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/test-phish-simple.sbstore" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/test-track-simple.cache" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/test-track-simple.pset" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/test-track-simple.sbstore" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/test-trackwhite-simple.cache" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/test-trackwhite-simple.pset" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/test-trackwhite-simple.sbstore" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/test-unwanted-simple.cache" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/test-unwanted-simple.pset" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/safebrowsing/test-unwanted-simple.sbstore" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/startupCache/startupCache.8.little" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/upstart/dbus.log.1.gz" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/upstart/dbus.log.2.gz" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/upstart/dbus.log.3.gz" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/upstart/dbus.log.4.gz" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/upstart/startxfce4.log.1.gz" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/upstart/startxfce4.log.2.gz" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/upstart/startxfce4.log.3.gz" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/upstart/startxfce4.log.4.gz" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Certificate Revocation Lists" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Cookies" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Cookies-journal" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Current Session" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Current Tabs" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Extension State/LOCK" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Extension State/MANIFEST-000001" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Favicons" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Favicons-journal" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/History" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/History Provider Cache" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/History-journal" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/IndexedDB/https_www.google.es_0.indexeddb.leveldb/LOCK" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/IndexedDB/https_www.google.es_0.indexeddb.leveldb/MANIFEST-000001" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Last Session" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Last Tabs" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Extension Settings/pafkbggdmjlpgkdkcbjmhmfcdpncadgh/LOCK" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Extension Settings/pafkbggdmjlpgkdkcbjmhmfcdpncadgh/MANIFEST-000001" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/chrome-extension_pafkbggdmjlpgkdkcbjmhmfcdpncadgh_0.localstorage" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/chrome-extension_pafkbggdmjlpgkdkcbjmhmfcdpncadgh_0.localstorage-journal" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/http_cwbuecheler.com_0.localstorage-journal" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/http_disqus.com_0.localstorage-journal" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/http_disqusads.com_0.localstorage-journal" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/http_slides.com_0.localstorage-journal" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/http_stackoverflow.com_0.localstorage-journal" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/https_c.betrad.com_0.localstorage-journal" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/https_chrome.google.com_0.localstorage-journal" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/https_www.facebook.com_0.localstorage-journal" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/https_www.youtube.com_0.localstorage-journal" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Login Data" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Login Data-journal" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Network Action Predictor" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Network Action Predictor-journal" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Origin Bound Certs" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Origin Bound Certs-journal" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/QuotaManager" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/QuotaManager-journal" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Service Worker/Database/LOCK" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Service Worker/Database/MANIFEST-000001" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Service Worker/ScriptCache/index" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Service Worker/ScriptCache/index-dir/the-real-index" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Session Storage/LOCK" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Session Storage/MANIFEST-000001" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Shortcuts" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Shortcuts-journal" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Top Sites" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Top Sites-journal" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Visited Links" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Web Data" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Web Data-journal" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/data_reduction_proxy_leveldb/LOCK" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/data_reduction_proxy_leveldb/MANIFEST-000001" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/databases/Databases.db" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/databases/Databases.db-journal" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Dictionaries/en-US-6-1.bdic" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/First Run" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Safe Browsing Bloom" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Safe Browsing Bloom Prefix Set" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Safe Browsing Cookies" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Safe Browsing Cookies-journal" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Safe Browsing Csd Whitelist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Safe Browsing Download" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Safe Browsing Download Whitelist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Safe Browsing Extension Blacklist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Safe Browsing IP Blacklist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Safe Browsing Inclusion Whitelist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Safe Browsing UwS List" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Safe Browsing UwS List Prefix Set" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/ShaderCache/GPUCache/data_0" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/ShaderCache/GPUCache/data_1" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/ShaderCache/GPUCache/data_2" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/ShaderCache/GPUCache/data_3" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/ShaderCache/GPUCache/index" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/menus/applications-merged/xdg-desktop-menu-dummy.menu" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/pulse/2f64cd3cdf2b874c981ef8e556745146-card-database.tdb" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/pulse/2f64cd3cdf2b874c981ef8e556745146-device-volumes.tdb" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/pulse/2f64cd3cdf2b874c981ef8e556745146-stream-volumes.tdb" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/pulse/cookie" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.history" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.java/.userPrefs/.user.lock.ns" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.java/.userPrefs/.userRootModFile.ns" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.local/share/gvfs-metadata/home" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.macromedia/Flash_Player/macromedia.com/support/flashplayer/sys/settings.sol" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/.parentlock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/cert8.db" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/content-prefs.sqlite" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/cookies.sqlite" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/crashes/store.json.mozlz4" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/formhistory.sqlite" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/healthreport.sqlite" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/key3.db" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/permissions.sqlite" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/places.sqlite" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/secmod.db" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/storage/permanent/chrome/.metadata" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/storage/permanent/chrome/idb/2918063365piupsah.sqlite" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/webappsstore.sqlite" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.pki/nssdb/cert9.db" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.pki/nssdb/key4.db" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.thumbnails/normal/4fdadf04c5951f3714aea5865ed8a66b.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.WebStorm11/system/log/idea.log" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.bash_logout" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.bashrc" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/logrotate/status" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/directoryLinks.json" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/mozilla/firefox/zdky6zmi.default/frequencyCap.json" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/upstart/dbus-session" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/upstart/dbus.log" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/upstart/startxfce4.log" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/Thunar/accels.scm" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/Thunar/uca.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Channels" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Bookmarks" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Extension State/000003.log" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Extension State/CURRENT" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Extension State/LOG" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Extension State/LOG.old" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/IndexedDB/https_www.google.es_0.indexeddb.leveldb/000003.log" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/IndexedDB/https_www.google.es_0.indexeddb.leveldb/CURRENT" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/IndexedDB/https_www.google.es_0.indexeddb.leveldb/LOG" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/IndexedDB/https_www.google.es_0.indexeddb.leveldb/LOG.old" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Extension Settings/pafkbggdmjlpgkdkcbjmhmfcdpncadgh/000003.log" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Extension Settings/pafkbggdmjlpgkdkcbjmhmfcdpncadgh/CURRENT" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Extension Settings/pafkbggdmjlpgkdkcbjmhmfcdpncadgh/LOG" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Network Persistent State" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Preferences" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/README" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Secure Preferences" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Service Worker/CacheStorage/63afbc5f01a8adb72f77c7797a97824ba4adf66b/index.txt" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Service Worker/Database/000003.log" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Service Worker/Database/CURRENT" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Service Worker/Database/LOG" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Service Worker/Database/LOG.old" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Session Storage/000003.log" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Session Storage/CURRENT" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Session Storage/LOG" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Session Storage/LOG.old" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/TransportSecurity" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/data_reduction_proxy_leveldb/000003.log" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/data_reduction_proxy_leveldb/CURRENT" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/data_reduction_proxy_leveldb/LOG" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/data_reduction_proxy_leveldb/LOG.old" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Local State" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/gtk-2.0/gtkfilechooser.ini" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/pulse/2f64cd3cdf2b874c981ef8e556745146-default-sink" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/pulse/2f64cd3cdf2b874c981ef8e556745146-default-source" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/user-dirs.dirs" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/user-dirs.locale" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/desktop/icons.screen0-1008x721.rc" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/desktop/icons.screen0-1008x723.rc" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/desktop/icons.screen0-1264x885.rc" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/desktop/icons.screen0-1264x928.rc" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/desktop/icons.screen0-1264x934.rc" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/desktop/icons.screen0-1904x975.rc" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/desktop/icons.screen0-624x384.rc" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/panel/launcher-2/14558924252.desktop" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/panel/launcher-8/14558924353.desktop" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/panel/launcher-9/14558924444.desktop" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/panel/whiskermenu-16.rc" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/xfconf/xfce-perchannel-xml/keyboards.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-panel.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-session.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-settings-manager.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/xfconf/xfce-perchannel-xml/xfwm4.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/xfconf/xfce-perchannel-xml/xsettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.dbus/session-bus/2f64cd3cdf2b874c981ef8e556745146-0" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.dmrc" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gnome/apps/jetbrains-webstorm.desktop" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.java/.userPrefs/prefs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.java/fonts/1.7.0_91/fcinfo-1-ubuntu-Ubuntu-14.04-en.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.java/fonts/1.7.0_95/fcinfo-1-ubuntu-Ubuntu-14.04-en.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.local/share/applications/jetbrains-webstorm.desktop" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.local/share/recently-used.xbel" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/profiles.ini" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/SiteSecurityServiceState.txt" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/addons.json" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/blocklist.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/compatibility.ini" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/datareporting/aborted-session-ping" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/datareporting/session-state.json" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/datareporting/state.json" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/extensions.ini" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/extensions.json" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/mimeTypes.rdf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/pluginreg.dat" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/prefs.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/revocations.txt" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/saved-telemetry-pings/1f34473f-b373-4425-9830-cb28f9de048e" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/saved-telemetry-pings/bf668f70-b612-4ac0-88ea-744775c91a60" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/search-metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/search.json" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/sessionCheckpoints.json" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/times.json" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/webapps/webapps.json" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/xulstore.json" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.pki/nssdb/pkcs11.txt" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.profile" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.vboxclient-clipboard.pid" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.vboxclient-display.pid" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.vboxclient-draganddrop.pid" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.vboxclient-seamless.pid" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.xsession-errors" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.xsession-errors.old" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Forms/.idea/Forms.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Forms/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Forms/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Forms/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Forms/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/SenBigInteger/views/form.jade" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/cities2/.idea/cities2.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/cities2/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/cities2/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/cities2/.idea/libraries/cities2_node_modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/cities2/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/cities2/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/cities2/.idea/runConfigurations/bin_www.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/cities2/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/cities2/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/start/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/start/.idea/runConfigurations/bin_www.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/start/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/organitzaciocodi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/HTMLFooter.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/HTMLMenu.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/HTMLMenuOLD.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/HTMLMenuUserLogged.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/HTMLMenuUserUnlogged.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/alerta.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/casal.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/crearevent.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/3-col-portfolio.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/ORIGINALbootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/form-elements.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/login.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/mPrompt.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/portfolio-item.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/small-business.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/toastr.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/csspropios/estil.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/editaruser.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/estadistiques.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/event.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/images/Can Vies.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/images/backgroundSignin.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/images/backgroundSignin1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/images/backgroundSignin2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/images/backgroundSignin3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/images/uploadImageIcon.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/imatgestemp/fotocasal1.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/Sortable.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/context.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/d3.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/extract.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/jquery.cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/mPrompt.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/masonry.pkgd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/pwstrength.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/shortcut.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/toastr.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/jspropios/functions.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/jspropios/functionsRestful.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/llistacasals.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/llistaevents.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/logout.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/plantilla-pag-buida.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/signin.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/okupainfodb-schema.sql" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/okupainfodb-user.sql" afterPath="" />
+    </list>
+    <ignored path="blog.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="blog" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1060" />
+    <option name="y" value="27" />
+    <option name="width" value="860" />
+    <option name="height" value="994" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="prop_add_unversioned_files" value="true" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cdc2dc7-b8d4-44ba-8b59-0a42d2f89a6d" name="Default" comment="" />
+      <created>1469091350536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1469091350536</updated>
+      <workItem from="1469091351712" duration="136000" />
+      <workItem from="1469091503508" duration="806000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="942000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1060" y="27" width="860" height="994" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2628435" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/config/manifest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
